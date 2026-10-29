@@ -1,0 +1,102 @@
+[
+  {
+    "file": "Mods/BurebistaAnimalTrophies.dll",
+    "sha256": "7f97f7fe3d9358f069d65e658a57a72468cd6bb15e76a8493fb0b1577c5804e6",
+    "bytes": 60928
+  },
+  {
+    "file": "Mods/BurebistaBeaver.dll",
+    "sha256": "733b1ee4bd508ad8ea3165c82697f82a3171301ac978f281a08255955e59e017",
+    "bytes": 12647424
+  },
+  {
+    "file": "Mods/BurebistaCampMenu.dll",
+    "sha256": "5e365b25aed5446e16912e0b2f212af599463dd77939c71dd8f113ce31ebde93",
+    "bytes": 38400
+  },
+  {
+    "file": "Mods/BurebistaCanningReturn.dll",
+    "sha256": "c199a82726755995ddd51063a8dda47277d101b2213639c51ac331d3a2d614cd",
+    "bytes": 6656
+  },
+  {
+    "file": "Mods/BurebistaPortableSmoker.modcomponent",
+    "sha256": "b00f208f927c9aec7b7df654cd831bf35787f345de66b61b7807ba138769149d",
+    "bytes": 44148
+  },
+  {
+    "file": "Mods/BurebistaSmokerSmoking.dll",
+    "sha256": "adaf17fe2bd30335b839aaadbb4a5aa622528ae49a55e3cbb080b11ad309491c",
+    "bytes": 29696
+  },
+  {
+    "file": "Mods/BurebistaSnowBlocks.dll",
+    "sha256": "4d4577a39ef66a37f4bdb545a8b5e22c85df2456c1771a135e2acd4ccc04fef0",
+    "bytes": 72192
+  },
+  {
+    "file": "Mods/BurebistaStartingEquipment.dll",
+    "sha256": "f7d2934bbd6954de081059f3e361007c5a6f58fb8663a5042f92a5f2c1f72b96",
+    "bytes": 49664
+  },
+  {
+    "file": "Mods/BurebistaTipiCookwareFix.dll",
+    "sha256": "ba54ac95376ac7165ac76466579ac05a6049f1322c36706d0135de688d0294c0",
+    "bytes": 10240
+  },
+  {
+    "file": "Mods/BurebistaTipiCuringRack.dll",
+    "sha256": "d1669fb673c6034d7628943afa88442609c2f3f6fce7db71c3e3619b0dc1b1bc",
+    "bytes": 15360
+  },
+  {
+    "file": "Mods/BurebistaTipiHideBed.dll",
+    "sha256": "96dec4233e5283878087d08576941a8a29772da8db5cd11a70689f37d2aa8b46",
+    "bytes": 17408
+  },
+  {
+    "file": "Mods/BurebistaTipiWorkbench.dll",
+    "sha256": "b728bf9624daa205d9ee25dba9408496becd6985d8906dee27be74ac95a3202b",
+    "bytes": 3048448
+  },
+  {
+    "file": "Mods/BurebistaToolsCompatibility.dll",
+    "sha256": "6baf5bef881a096c323ba7e9dc4084362a7c6ae765a7d4f849ceebbfffea31cc",
+    "bytes": 6144
+  },
+  {
+    "file": "Mods/BurebistaTraditionalTipi.dll",
+    "sha256": "ae1e683194a69e656d3267c3e7155b999960a1edc3a5061d8151223c5d632e9e",
+    "bytes": 30720
+  },
+  {
+    "file": "Mods/BurebistaTraditionalTipi.modcomponent",
+    "sha256": "f8d14852f9032bc1771e62c96f6329cdf2a38e24418b32dad261540829803737",
+    "bytes": 1672169
+  },
+  {
+    "file": "Mods/BurebistaTrapperDog.dll",
+    "sha256": "d7f9f3e76905291361f34d5e50d125b3d62f7276baed2c395bd6d03d750d3500",
+    "bytes": 74240
+  },
+  {
+    "file": "Mods/BurebistaTrapperSled.dll",
+    "sha256": "004c98d904102e01dae15e700ab1a8c6c7eff212068fb4a9bdfc35de099894a3",
+    "bytes": 30208
+  },
+  {
+    "file": "Mods/BurebistaWinterMushrooms.dll",
+    "sha256": "45427d63b4a092863976f87d6dc48fa692221a6fd28f019498af231b5c8a6187",
+    "bytes": 12288
+  },
+  {
+    "file": "Mods/HondaProject.dll",
+    "sha256": "7da111788dffc65e46a7c0b3c7722a0b5be36bdc6dfd3882d7bc76ca1e593caa",
+    "bytes": 3136512
+  },
+  {
+    "file": "Mods/IgluAddon.dll",
+    "sha256": "8219499ff93d6a29d53db99c340d0041b14df6080a26fa2ae3368c513822de7a",
+    "bytes": 53248
+  }
+]
